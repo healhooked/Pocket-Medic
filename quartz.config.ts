@@ -8,7 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Pocket Medic",
+pageTitle: "Pocket Medic",
+logoSrc: "/static/logo.png",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
