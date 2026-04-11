@@ -1,0 +1,11 @@
+- **Definition**: Psychosis is a broad term that refers to a mental state characterized by a disconnection from reality. It can involve hallucinations (seeing or hearing things that are not present) and delusions (strongly held false beliefs).
+- **Causes**: Psychosis can be caused by various factors, including:
+    - Mental illnesses (e.g., [[Schizophrenia]], bipolar disorder, severe depression)
+    - Substance abuse (e.g., drugs, alcohol)
+    - Medical conditions (e.g., brain injuries, infections)
+    - Trauma or extreme stress
+- **Duration**: Psychosis can be temporary and may occur in episodes. It can happen in various contexts and is not limited to a specific diagnosis.
+
+- [[Delirium]]
+- [[Sedatives & Anxiolytics - SUD]]
+-  

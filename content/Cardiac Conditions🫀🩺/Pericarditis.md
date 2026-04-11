@@ -1,0 +1,1 @@
+Diffuse ST-segment elevation and PR-segment depression, often associated with chest pain and a pericardial rub.

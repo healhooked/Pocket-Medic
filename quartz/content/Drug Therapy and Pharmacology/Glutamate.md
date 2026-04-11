@@ -1,0 +1,6 @@
+- **Synaptic Transmission**: Acts as the primary excitatory neurotransmitter, facilitating communication between neurons.
+- **Learning and Memory**: Crucial for synaptic plasticity, which underlies learning and memory formation.
+- **Neurodevelopment**: Supports the growth and differentiation of neurons during brain development.
+- **Excitotoxicity**: Excessive glutamate can lead to neuron damage and is linked to neurodegenerative diseases.
+- **Regulation of Other Neurotransmitters**: Influences the release of inhibitory neurotransmitters like GABA, maintaining balance in brain signaling.
+- **Neurotransmitter Recycling**: Taken up by glial cells for conversion back into glutamine, ensuring a steady supply for neurons.

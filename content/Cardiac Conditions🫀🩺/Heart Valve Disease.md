@@ -1,0 +1,4 @@
+- Stenosis
+- Regurgitation
+- Rheumatic fever
+- Ruptured papillary muscle

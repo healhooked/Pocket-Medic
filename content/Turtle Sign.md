@@ -1,0 +1,1 @@
+the foetus fails to undergo external rotation due to the shoulders being too large to enter the pelvis or have entered at an unfavourable angle/diameter

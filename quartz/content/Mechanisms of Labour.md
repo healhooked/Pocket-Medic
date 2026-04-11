@@ -1,0 +1,7 @@
+- Engagement
+- Descent
+- Flexion
+- Internal Rotation
+- Extension
+- Restitution / External Rotation
+- Explosion

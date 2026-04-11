@@ -1,0 +1,1 @@
+Cover with occlusive dressing; monitor for effectiveness.

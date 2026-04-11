@@ -1,0 +1,4 @@
+- Rightward deviation of the P wave and QRS axis
+- Low voltage QRS complexes, especially in the left precordial leads (V4-6)
+- With development of cor pulmonale, right atrial enlargement (P pulmonale) and [[Right Ventricular Hypertrophy (RVH)]]
+- Arrhythmias including multifocal atrial tachycardia

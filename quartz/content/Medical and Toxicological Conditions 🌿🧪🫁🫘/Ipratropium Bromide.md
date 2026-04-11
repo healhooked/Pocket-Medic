@@ -1,0 +1,3 @@
+Indicated
+COPD
+Asthma

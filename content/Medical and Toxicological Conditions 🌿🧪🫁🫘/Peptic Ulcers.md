@@ -1,0 +1,1 @@
+(gastric and duodenal ulcers)

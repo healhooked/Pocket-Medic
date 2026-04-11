@@ -1,0 +1,3 @@
+- **Jellyfish Stings (Box, Irukandji) 🪼**
+    - Vinegar, analgesia, ALS support
+    - Watch for Irukandji syndrome (catecholamine surge)

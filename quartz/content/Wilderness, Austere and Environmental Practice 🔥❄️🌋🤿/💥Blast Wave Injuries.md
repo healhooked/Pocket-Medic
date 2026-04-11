@@ -1,0 +1,5 @@
+- **Blast Injuries** 
+    - Primary → lungs, ears
+    - Secondary → shrapnel
+    - Tertiary → blunt trauma
+    - Quaternary → burns, toxins

@@ -1,0 +1,1 @@
+Heart rate less than 60 bpm with normal P waves and QRS complexes, which can be normal in athletes or indicate pathology.

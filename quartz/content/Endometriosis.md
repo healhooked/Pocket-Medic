@@ -1,0 +1,1 @@
+tissue similar to the lining of the uterus grows outside the uterus

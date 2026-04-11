@@ -1,0 +1,6 @@
+- Crepe bandage is highly versatile.
+- Used for partial immobilization of sprains and strains.
+- Serves as temporary bandaging for fractures until a plaster cast is applied.
+- Effective for applying compression to control heavy bleeding.
+- Provides support for joints weakened by repeated injuries.
+- Recommended to comprise 1/3 of roller bandages in a first aid kit.

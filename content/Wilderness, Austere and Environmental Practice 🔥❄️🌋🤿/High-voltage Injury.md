@@ -1,0 +1,3 @@
+- **High-Voltage Injury**
+    - Entry/exit wounds, deep muscle injury
+    - Cardiac monitoring mandatory

@@ -1,0 +1,2 @@
+- **Organophosphate Poisoning** (insecticide exposure, rural)
+    - SLUDGE syndrome

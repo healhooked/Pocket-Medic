@@ -1,0 +1,8 @@
+- [Left atrial enlargement](https://litfl.com/left-atrial-enlargement-ecg-library/) (may progress to atrial fibrillation)
+- [Biatrial enlargement](https://litfl.com/biatrial-enlargement-ecg-library/)
+- [Left ventricular hypertrophy](https://litfl.com/left-ventricular-hypertrophy-lvh-ecg-library/) or [biventricular enlargement](https://litfl.com/biventricular-hypertrophy-ecg-library/)
+- [Left bundle branch block](https://litfl.com/left-bundle-branch-block-lbbb-ecg-library/) ([RBBB](https://litfl.com/right-bundle-branch-block-rbbb-ecg-library/) can also occur)
+- [Left axis deviation](https://litfl.com/left-axis-deviation-lad-ecg-library/)
+- [Poor R-wave progression](https://litfl.com/poor-r-wave-progression-prwp-ecg-library/) with QS complexes in V1-4 (“pseudo-infarction” pattern)
+- Frequent [ventricular ectopics](https://litfl.com/premature-ventricular-complex-pvc-ecg-library/) and ventricular bigeminy (seen with severe DCM)
+- Ventricular dysrhythmias ([VT](https://litfl.com/ventricular-tachycardia-monomorphic-ecg-library/)/[VF](https://litfl.com/ventricular-fibrillation-vf-ecg-library/))

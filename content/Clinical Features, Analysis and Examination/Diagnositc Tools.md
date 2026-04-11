@@ -1,0 +1,25 @@
+- **A**: Alcohol
+- **E**: Endocrine (e.g., hypoglycemia, hyperthyroidism)
+- **I**: Infection (e.g., meningitis, sepsis)
+- **O**: Overdose (e.g., drugs)
+- **U**: Uremia (kidney failure)
+- **T**: Trauma
+- **I**: Insulin (hypoglycemia)
+- **P**: Psychosis
+- **S**: Stroke
+---
+- **V**: Vascular
+- **I**: Inflammatory/Infectious
+- **N**: Neoplastic
+- **D**: Degenerative/Deficiency (metabolic)
+- **I**: Iatrogenic/Idiopathic/Intoxication
+- **C**: Congenital
+- **A**: Allergic/Autoimmune
+- **T**: Traumatic
+- **E**: Endocrine
+
+- **S**: Social
+- **L**: Legal
+- **E**: Environmental
+- **E**: Economic
+- **P**: Psychological

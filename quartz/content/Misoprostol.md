@@ -1,0 +1,1 @@
+generally self-administered with 48 hours at home

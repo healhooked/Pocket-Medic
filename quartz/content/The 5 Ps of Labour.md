@@ -1,0 +1,5 @@
+- Passenger: the Fetus, size, attitude, lie, presentation
+- Passageway: pelvis and birth canal
+- Power: uterine contractions
+- Position: meternal postures and physical positions
+- Psyche: the response of the mother

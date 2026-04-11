@@ -1,0 +1,1 @@
+![[PallorSkinTones.jpg|552x505]]

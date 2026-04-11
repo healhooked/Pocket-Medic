@@ -1,0 +1,21 @@
+
+- **Mechanism**: [[Monoamine Dysfunction]]
+    - Dopamine D2 receptor antagonism
+    - Serotonin 5-HT2A receptor antagonism 
+- **E.g.
+    - [[Risperidone]]
+    - [[Olanzapine]]
+    - [[Olanzapine]]
+    - Quetiapine
+    - Aripiprazole
+    - Clozapine
+- **Benefits**:
+    - Lower risk of [[Extrapyramidal Symptoms]] when compared to typical 1st gen. antipsychotics
+    -> lower risk of [[Acute Dystonic Reactions]]
+    - Improved efficacy for negative psychotic symptoms.
+- **Side Effects**:
+    - Metabolic syndrome (weight gain, diabetes).
+    - Sedation.
+    - Cardiovascular issues.
+- **Monitoring**: Regular assessment of metabolic parameters and side effects.
+

@@ -1,0 +1,1 @@
+>![[Screenshot_20250605_153810_Elsevier~2.jpg|438x438]]

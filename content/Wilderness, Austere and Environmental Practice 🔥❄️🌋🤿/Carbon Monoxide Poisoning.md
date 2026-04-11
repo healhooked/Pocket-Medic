@@ -1,0 +1,2 @@
+- **Carbon Monoxide Poisoning** (fires, confined spaces)
+    - Pulse oximeter will lie → Use clinical signs

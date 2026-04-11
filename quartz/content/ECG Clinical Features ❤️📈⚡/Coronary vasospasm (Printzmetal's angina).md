@@ -1,0 +1,1 @@
+constriction of the coronary arteries that can cause complete or near-complete occlusion of the vessel

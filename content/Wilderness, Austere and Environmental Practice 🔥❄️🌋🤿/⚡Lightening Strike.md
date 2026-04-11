@@ -1,0 +1,1 @@
+- Asystole & apnea common → Reverse triage (treat dead first)

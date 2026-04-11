@@ -1,0 +1,1 @@
+![[Nicotine_stains10.jpg|373x266]]

@@ -1,0 +1,1 @@
+May show ST-segment depression or T-wave inversions, indicating myocardial ischemia without full thickness damage.

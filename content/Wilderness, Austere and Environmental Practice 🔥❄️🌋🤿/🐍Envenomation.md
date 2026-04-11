@@ -1,0 +1,7 @@
+- [[🐍Snake Envenomation]]
+- [[🕷️Spider Envenomation]]
+- [[🪼Box & Irakanji Jellyfish Sting]]
+- [[Tick Paralysis]]
+- [[Blue-ringed Octopus Envenomation]]
+- [[Cone Snail]]
+- Bee / Wasp / Ant Stings – watch for anaphylaxis

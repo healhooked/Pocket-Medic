@@ -1,0 +1,3 @@
+- **Decompression Illness (DCI)** / **Barotrauma** 
+    - Dive history, joint pain, neuro symptoms
+    - O2 + supine + dive chamber access
