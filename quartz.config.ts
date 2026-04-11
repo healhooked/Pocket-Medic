@@ -22,7 +22,11 @@ const config: QuartzConfig = {
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
-      typography: {
+typography: {
+  header: "Libre Baskerville",
+  body: "Source Sans Pro",
+  code: "IBM Plex Mono",
+},
         header: "Schibsted Grotesk",
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
