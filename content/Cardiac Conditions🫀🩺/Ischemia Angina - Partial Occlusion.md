@@ -1,14 +1,10 @@
 
 
----
 
 4. Normal ECG
 
 An ECG can be normal in early ischemia or in non-transmural ischemia, so absence of changes does not rule out ischemia.
 
-
-
----
 
 Additional Notes:
 
