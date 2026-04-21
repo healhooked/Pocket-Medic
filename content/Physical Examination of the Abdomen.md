@@ -23,6 +23,6 @@ All Angry Kangaroos Get Super Loud
 - **Bowel sounds:**
 - Normal (borborygmi)
 - Hypoactive (ileus, peritonitis)
-- Hyperactive (obstruction, [[gastroenteritis]])
+- Hyperactive (obstruction, [[Gastroenteritis]])
 
 [[Psoas sign]]

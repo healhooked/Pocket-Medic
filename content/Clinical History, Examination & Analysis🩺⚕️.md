@@ -40,7 +40,7 @@ _______________________
 *Checklists:*
 - [[Cardiac Status Checklist]]
 - [[Anaphylaxis Checklist]]
-- [[Alcohol Use Disorder - Checklist]]
+- [[Alcohol Use Disorder - Checklist 1]]
 - pPCI Checklist
 - Fibrinolysis Checklist
 - 

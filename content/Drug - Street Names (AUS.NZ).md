@@ -1,9 +1,9 @@
 ### **Street Names for Common Drugs in Australia and New Zealand**
-#### **[[Benzodiazepines]]**
+#### **[[Benzodiazepines 1]]**
 
 | **Generic/Brand**         | **Street Names (Australia/NZ)**                  |
 | ------------------------- | ------------------------------------------------ |
-| [[Benzodiazepines]] (general) | benzos, rowies, seros, sleepers, vals, V, Xanies |
+| [[Benzodiazepines 1]] (general) | benzos, rowies, seros, sleepers, vals, V, Xanies |
 
 #### **Hallucinogens**
 

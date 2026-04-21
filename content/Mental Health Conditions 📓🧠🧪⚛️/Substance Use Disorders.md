@@ -1,6 +1,6 @@
 🧠 **Table 1: Cognitive, Mood & Anxiety-Related Disorders by Substance Class**
 
-| Diagnosis                    | [[Alcoholism - SUD]] | [[Cannabis - SUD]] | [[Hallucinogens - SUD]] | [[Inhalants - SUD]] |
+| Diagnosis                    | [[Alcoholism - SUD 1]] | [[Cannabis - SUD]] | [[Hallucinogens - SUD]] | [[Inhalants - SUD]] |
 | ---------------------------- | -------------------- | ------------------ | ----------------------- | ------------------- |
 | [[Psychosis Disorders]]      | *I/W*                | *I*                | *I***                   | *I*                 |
 | [[Bipolar & Mood Disorders]] | *I/W*                |                    | *I*                     |                     |

@@ -1,6 +1,6 @@
 > [!note] ***Time Critical and Highly Treatable Conditions***
 > [[Traumatic Brain Injury 🧠]] (Secondary Brain Injury)
-> [[SHOCK]]
+> [[Shock]]
 > [[Tension Pneumothorax 💨🫁]]
 > [[Flail Chest 🩻]]
 > [[Midshaft Femoral Fracture Reduction 🦵]]

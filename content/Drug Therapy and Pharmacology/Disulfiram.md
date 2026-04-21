@@ -5,7 +5,7 @@ Disulfiram is a medication used to support the treatment of alcohol dependence. 
 - **Acetaldehyde Accumulation**: Causes unpleasant reactions when alcohol is consumed, discouraging drinking.
 
 ### Indication:
-Disulfiram is indicated for the treatment of chronic [[Alcoholism - SUD]] in individuals who are abstinent and motivated to remain sober.
+Disulfiram is indicated for the treatment of chronic [[Alcoholism - SUD 1]] in individuals who are abstinent and motivated to remain sober.
 
 ### Drug Class:
 Disulfiram belongs to the drug class known as **aldehyde dehydrogenase inhibitors**.

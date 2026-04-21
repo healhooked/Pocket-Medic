@@ -36,8 +36,8 @@ _______
     - [[Amitriptyline]]
     - [[diazepam]] + Insulin
     - Polypharmacy
-    - [[serotonin syndrome]]
-    - [[Alcoholism - SUD]]
+    - [[Serotonin Syndrome]]
+    - [[Alcoholism - SUD 1]]
 
 _____________________
 ***The Suicidal Patient***  

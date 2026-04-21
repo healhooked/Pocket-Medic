@@ -35,7 +35,7 @@ ___________________
 - [Thyrotoxicosis](https://litfl.com/hyperthyroidism-ecg-library/) (Hyperthyroidism)
 
 - Drugs (e.g. sympathomimetics, [Amphetamines])
-- [[Substance Use Disorders]], [[Alcoholism - SUD]] (Holiday Heart)
+- [[Substance Use Disorders]], [[Alcoholism - SUD 1]] (Holiday Heart)
 
 - [Pulmonary embolus](https://litfl.com/ecg-changes-in-pulmonary-embolism/)
 - [Pericardial disease](https://litfl.com/pericarditis-ecg-library/)

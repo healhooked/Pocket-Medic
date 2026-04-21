@@ -47,7 +47,7 @@ _____________
     - [[Diazepam]] + Insulin
     - Polypharmacy
     - [[Serotonin Syndrome]]
-    - [[Alcoholism - SUD]]
+    - [[Alcoholism - SUD 1]]
 
  ***Patient Refusal & Capacity (VIRCA Process)***  
     • **Protocol:** CPP: QAS Non‑transport / VIRCA (Voluntariness, Informed, Relevant, Capacity, Advice)  

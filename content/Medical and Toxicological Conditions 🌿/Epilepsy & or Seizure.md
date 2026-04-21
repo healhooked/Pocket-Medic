@@ -38,7 +38,7 @@ _____________
 - Hepatic encephalopathy
 
 #### Toxins and drugs
-- Withdrawal - ([[Alcoholism - SUD]]])
+- Withdrawal - ([[Alcoholism - SUD 1]]])
 - Withdrawal - ([[Sedatives & Anxiolytics - SUD]]) (e.g. benzodiazepines)
 - [[Stimulant - SUD]], & Illicit Drug Use (e.g., cocaine, amphetamines, ecstasy)
 - Drug toxicity (e.g., from [[Tramadol]], isoniazid, theophylline, [[Lithium]])

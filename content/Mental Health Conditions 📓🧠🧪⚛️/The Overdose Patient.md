@@ -8,7 +8,7 @@
 *Tricyclic [[Antidepressants]] [[Tricyclic Antidepressants (TCAs) & Overdose]]*
 - [[Amitriptyline]]
 
-*[[Benzodiazepines]]*
+*[[Benzodiazepines 1]]*
 
 *Cannabis*
 - Cannabis induced [[Psychosis Disorders]]

@@ -11,7 +11,7 @@
 - [[Delirium]]
 
 ## 🦠 Infectious Diseases
-- [[Sepsis]]
+- [[SEPSIS]]
 - [[Meningococcal Meningitis]]
 - MRSA
 - UTI

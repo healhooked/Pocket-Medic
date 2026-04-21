@@ -35,7 +35,7 @@ _________
 	- [[Lateral STEMI]]
 
 - [[Non-ST-Elevation Myocardial Infarction (NSTEMI)]]
-- [[Ischemia Angina - Partial Occlusion]]
+- [[Partial Occlusion - Angina (Ischemia)]]
 
 - [[Scgarbossa Criteria]]
 - [[De Winter T waves]]

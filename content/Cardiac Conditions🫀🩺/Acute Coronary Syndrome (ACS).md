@@ -23,7 +23,7 @@
 - ACS and the ECG. STEMI vs non-STEMI
 - Basic prehospital management of ACS
 
-- [[Ischemia Angina - Partial Occlusion]]
+- [[Partial Occlusion - Angina (Ischemia)]]
 - [[Unstable Angina & the NSTEMI]]
 - [[ST-Elevation Myocardial Infarction (STEMI)]]
 - [[Non-ST-Elevation Myocardial Infarction (NSTEMI)]]

@@ -29,7 +29,7 @@ System Involvement:
 ___________________
 
 **Eclampsia**
-- new-onset [[Medical and Toxicological Conditions 🌿🧪🫁🫘/Epilepsy & or Seizure|Epilepsy & or Seizure]] in a woman with preeclampsia
+- new-onset [[Epilepsy & or Seizure|Epilepsy & or Seizure]] in a woman with preeclampsia
 - Seizures can be tonic-clonic, focal, or multifocal and may occur antenatally, intrapartum, or postpartum, usually within 24 hours of delivery but occasionally later.
 
 ***Complications***
