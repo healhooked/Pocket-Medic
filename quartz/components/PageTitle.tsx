@@ -7,12 +7,12 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   const title = cfg?.pageTitle ?? i18n(cfg.locale).propertyDefaults.title
   const baseDir = pathToRoot(fileData.slug!)
   return (
-    <h2 class={classNames(displayClass, "page-title")}>
+    <div class={classNames(displayClass, "page-title")}>
       <a href={baseDir}>
-        <img src="https://healhooked.github.io/Pocket-Medic/logo.png" style="width: 48px; height: 48px; vertical-align: middle; margin-right: 10px;" />
-        {title}
+        <img src="https://healhooked.github.io/Pocket-Medic/logo.png" style="width: 60px; height: 90px; display: block; margin-bottom: 8px;" />
+        <span>{title}</span>
       </a>
-    </h2>
+    </div>
   )
 }
 
@@ -20,6 +20,11 @@ PageTitle.css = `
 .page-title {
   font-size: 1.75rem;
   margin: 0;
+}
+.page-title a {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
 }
 `
 
