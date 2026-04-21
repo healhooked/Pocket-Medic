@@ -7,11 +7,46 @@
 > - [[IPPV]]
 > - [[PEEP]]
 
+# Chronic bronchitis (airway-dominant disease)
+Chronic irritation leads to:
+- Mucus gland hypertrophy
+- Goblet cell hyperplasia
+- Excessive mucus production → airway plugging
+
+Thickening of airway walls from inflammation, fibrosis & remodelling.
+
+The net effect is narrowed airways with increased resistance.
+
+Clinically, this is the “productive cough” phenotype. Gas exchange becomes inefficient because ventilation is uneven—some alveoli are perfused but poorly ventilated (low V/Q ratio), contributing to hypoxia and, later, hypercapnia.
+
+# Emphysema (parenchymal destruction)
+Here the key mechanism is a protease–antiprotease imbalance (e.g., excess elastase activity).
+This leads to:
+- Destruction of alveolar walls
+- Loss of elastic recoil
+
+Collapse of small airways during expiration
+
+This causes air trapping and hyperinflation. The lungs become mechanically inefficient—patients must work harder to exhale. Surface area for diffusion drops, so oxygen transfer is impaired even if air reaches the alveoli.
+
+Physiology:
+Airflow limitation: Due to airway narrowing + loss of elastic recoil → especially affects expiration → prolonged expiratory phase
+Air trapping & hyperinflation: Increases residual volume → flattens diaphragm → worsens work of breathing
+Gas exchange abnormalities:
+Early: hypoxia from V/Q mismatch
+Late: hypercapnia as ventilation fails
+Pulmonary hypertension: Chronic hypoxic vasoconstriction → vascular remodeling → can progress to right heart failure (cor pulmonale)
+There’s also a systems-level perspective. COPD reflects a failure of regulatory balance:
+Inflammation vs repair
+Protease vs antiprotease
+Oxidative stress vs antioxidant defenses
+
+
 ______
-***ECG Presentations:***
+# ECG Presentations:
 https://litfl.com/ecg-in-chronic-obstructive-pulmonary-disease/
 
-Cor Pulmonale
+# Cor Pulmonale
 
 - Rightward deviation of the P wave and QRS axis
 - Low voltage QRS complexes, especially in the left precordial leads (V4-6)

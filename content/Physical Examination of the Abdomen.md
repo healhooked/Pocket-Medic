@@ -24,3 +24,5 @@ All Angry Kangaroos Get Super Loud
 - Normal (borborygmi)
 - Hypoactive (ileus, peritonitis)
 - Hyperactive (obstruction, [[gastroenteritis]])
+
+[[Psoas sign]]

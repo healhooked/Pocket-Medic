@@ -1,6 +1,6 @@
 
 > [!note] ***Time Critical and Treatable Conditions***
-> - [[Epilepsy & or Seizure 1]]
+> - [[Epilepsy & or Seizure]]
 > - [[Anaphylaxis]]
 > - [[Hypoglycemia]]
 > - [[Hyperglycemia]]
@@ -10,15 +10,14 @@
 > - [[Adrenal Insufficiency - Addisonian Crisis]]
 > - [[Meningococcal Meningitis]]
 
-_______________
-
-# Evidence-Based Principals of Practice
-
-## Meet: Elixir Erin the Medical Maestro - The Medically Minded Paramedic
+# Meet: Elixir Erin the Medical Maestro - The Medically Minded Paramedic
 *If you are nice to Erin, she might be generous with the [[fentanyl]]*
 
+
 ![[file_00000000d8fc61f8b7096e9f60a7b1c2.png|268x402]]
-_________________
+
+______
+
 # Conditions & Pathologies
 
 ## [[Diabetic Emergencies]]:
@@ -88,11 +87,3 @@ _________________
 _________________
 
 >![[Gray971.png|0x0]]
-
-
-# **Cases to Consider:**
-1. [[Pediatric Meningococcal]]
-2. [[Anaphylaxis from Bee Sting]]
-3. [[Polypharmacy overdose Pediatric leading to Hyperkalemia, Bradycardia]]
-4. Non Cardiogenic APO & **Bronchospasm** - Cocaine Induced requiring, Ventilation CPAP, Adrenaline
-_______________________

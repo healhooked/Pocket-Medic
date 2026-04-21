@@ -4,26 +4,29 @@
 > [[The Acutely Suicidal Patient]]
 > [[The Depressed Patient]]
 > [[The Acutely Anxious and Panicked Patient]]
-> [[Psychogenic Seizures]]
+> [[Psychogenic Non Epileptic Seizures]]
 >[[Delirium]]
 >[[Substance Use Disorders]]
 > 
 > 
 
 ________
-# Meet: ***Mindful Monique*** the Mindset Mentor - **The Mental Health Conscious Paramedic**
+# Meet: Mindful Monique the Mindset Mentor - The Mental Health Conscious Paramedic
 ![[Pasted image 20250619110142.png|270x405]]
 ____________
 **Mental Health - Field Reference:**
 - [[Diagnostic Reference Guide for Mental Health Conditions📓🧠]]
 - [[Mental Status Examination]]
-- [[Psychiatric Medications for Field Reference 💊 📓]]
+- [[Psychiatric Medications for Field Reference  📓]]
 _____________
 # Conditions & Pathologies
 
 ***[[Acute Behavioural Disturbance (ABD)]] & Intoxication‑Related Aggression***  
 - **Sedation:** CPP: [[Emergency Sedation]] for ABD 
-- ([[Droperidol]] first‑line) ; DTP: Midazolam dosing  
+- ([[Droperidol]] first‑line)
+- Lorazepam 
+- Olanzapine
+- DTP: Midazolam dosing 
 
 ***[[The Acutely Suicidal Patient]]***
 - Towards zero notes
@@ -32,7 +35,7 @@ _____________
 - Mechanism
 
 *[[The Acutely Anxious and Panicked Patient]]*
-- *[[Psychogenic Seizures]]*
+- *[[Psychogenic Non Epileptic Seizures]]*
 - Panic Attacks
 
 [[Delirium]]
@@ -62,9 +65,6 @@ ______________________________________________________
 ______________________________________________
  ***Post‑Incident Family Support***  
     • **No dedicated QAS CPG:** apply Psychological First Aid principles and liaise with Mental Health Liaison Service.
-
-
-
 
 ### 🧨 High-Risk Situations
 - Acute Suicide Risk

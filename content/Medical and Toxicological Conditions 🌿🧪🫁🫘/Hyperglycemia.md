@@ -15,7 +15,7 @@
 *Neurological* - *[[GCS]]?*
 - Lethargy
 - ALOC
-- [[Epilepsy & or Seizure 1]]
+- [[Epilepsy & or Seizure]]
 - Coma
 *Cardiovascular*
 - Signs of hypovolemia (hypotension, tachycardia)

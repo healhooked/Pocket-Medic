@@ -26,7 +26,7 @@ __________
 - Overdose
 - Substance Use
 - [[Hypoglycemia]]
-- [[Epilepsy & or Seizure 1]]
+- [[Epilepsy & or Seizure]]
 ___________
 
 | Hypothermia Presentation |             |                                                                                                                     |

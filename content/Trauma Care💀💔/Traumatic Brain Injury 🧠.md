@@ -7,16 +7,17 @@ Circulation (aggressively avoid hypotension; use crystalloid fluids – avoid al
 protect c-spine
 timely transport to a neurosurgical unit
 
-# Treatment Considerations
-Hypotension with a concurrent traumatic brain injury is associated with poor outcomes. In such settings, paramedics must administer the minimum amount of IV fluid required to maintain a systolic 
-- BP of 100–120 mmHg (Adult
-- Normothermic
-- End Tidal Co2 30-40
-- Minimise Airway Adjuncts
-- Adminster prophylactic Ondansetron
-- Normoglyceamic
-- Secondary Brain Injury
-- Primary Brain Injury
+> [!help] Treatment *Consider*
+> Hypotension with a concurrent traumatic brain injury is associated with poor outcomes. In such settings, paramedics must administer the minimum amount of IV fluid required to maintain a systolic 
+> - BP of 100–120 mmHg (Adult
+> - Normothermic
+> - End Tidal Co2 30-40
+> - Minimise Airway Adjuncts
+> - Adminster prophylactic Ondansetron
+> - Normoglyceamic
+> - Secondary Brain Injury
+> - Primary Brain Injury
+
 
 DIFFERENTIAL DIAGNOSIS
 

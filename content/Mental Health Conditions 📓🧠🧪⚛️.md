@@ -4,7 +4,7 @@
 > [[The Acutely Suicidal Patient]]
 > [[The Depressed Patient]]
 > [[The Acutely Anxious and Panicked Patient]]
-> [[Psychogenic Seizures]]
+> [[Psychogenic Non Epileptic Seizures]]
 >[[Delirium]]
 >[[Substance Use Disorders]]
 > 
@@ -17,13 +17,13 @@ ____________
 **Mental Health - Field Reference:**
 - [[Diagnostic Reference Guide for Mental Health Conditions 📓🧠]]
 - [[Mental Status Examination]]
-- [[Psychiatric Medications for Field Reference 💊 📓]]
+- [[Psychiatric Medications for Field Reference  📓]]
 _______
 [[Acute Behavioural Disturbance]]
 [[The Acutely Suicidal Patient]]
 [[The Depressed Patient]]
 [[The Acutely Anxious and Panicked Patient]]
-[[Psychogenic Seizures]]
+[[Psychogenic Non Epileptic Seizures]]
 [[Delirium]]
 [[Substance Use Disorders]]
 

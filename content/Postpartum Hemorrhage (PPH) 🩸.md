@@ -16,6 +16,14 @@
 > [[External aortic compression]]
 > [[Bimanual Compression]]
 
+> [!help] Treatment *Consider*
+>#### Following Placenta being delivered:
+Examine:
+**Tone** - fundus firm and central? *Continue fundal massage*, subsequent dosing and commencement of Oxytocin infusion
+ **Trauma** - evidence of perineum or vaginal wall lacerations? *Control external hemorrhage ?*
+ **Tissue & Thrombin** - Placenta and membranes intact? Evidence of clots? Known clotting disorder or patient is anticoagulated?
+ Continue fundal massage to assist with expulsion of clots
+
 **Primary postpartum hemorrhage**:  > 500 mls bleeding **within 24 hours** of delivery. 
 - Uterine atony accounts for approximately 70% of cases and is the leading etiology in this period
 - Obstetric Trauma (e.g. Perineum trauma, lacerations or uterine rupture)

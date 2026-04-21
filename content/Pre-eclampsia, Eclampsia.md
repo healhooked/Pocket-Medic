@@ -1,6 +1,6 @@
 > [!note] Treatment
 > Early IV Access and Cautious Fluid Administration 
-> [[Midazolam]] indicated for [[Epilepsy & or Seizure 1]] Activity
+> [[Midazolam]] indicated for [[Epilepsy & or Seizure]] Activity
 > ***Extended Scope:***
 > [[Magnesium Sulphate]]
 

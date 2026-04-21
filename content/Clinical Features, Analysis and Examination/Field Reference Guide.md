@@ -1,7 +1,6 @@
-[['The Pocket Medic' - Walkthrough Guide]]
 
 > [!note] Subject-Oriented Categorisation
-> #### [[Medical and Toxicological Conditions 🌿🧪]]
+> #### [[Medical and Toxicological Conditions 🌿]]
 > - [[Anaphylaxis]]
 > - [[Stroke & or Transient Ischaemic Attack]]
 > - [[The Overdose Patient]]
@@ -14,15 +13,14 @@
 > - [[Acute Behavioural Disturbance (ABD)]]
 > - [[The Suicidal Patient]]
 > - Implementing an [[Emergency Examination Authority (EEA)]]
-> 		<u>***Field Reference:***</u>
+> 
 > - [[Diagnostic Reference Guide for Mental Health Conditions📓🧠]]
 > - [[Mental Status Examination]]
-> - [[Psychiatric Medications for Field Reference 💊 📓]]
+> - [[Psychiatric Medications for Field Reference  📓]]
 >#### [[Cardiac Conditions🫀🩺]]
 > - [[Acute Coronary Syndrome (ACS)]]
 > - [[Cardiac Arrest & Resuscitation]]
 > - [[Supraventricular Tachycardia (SVT)]]
-> 		<u>***Field Reference:***</u>
 > - [[ECG Clinical Features Guide ❤️📈⚡]]
 > - [[Cardiac Medications for Field Reference]]
 > - [[Cardiovascular Examination]]
@@ -34,7 +32,7 @@
 > 
 > #### [[Mass Casualty Management 🛑🚦]]
 > - [[SIEVE & SORT]]
-> #### [[Wilderness, Austere and Environmental Practice 🌋🤿]]
+> #### [[Wilderness, Austere and Environmental Practice 🌋]]
 >- [[🐍Envenomation]]
 >- [[❄️ Hypothermia]]
 >- [[🌡️Hyperthermia]]
@@ -122,7 +120,7 @@ _____________
 ### **Drugs & Pharmacology - Field Reference: 💊💉**
 - [[A Guide to Drug Therapy Protocols 💊💉]]
 - [[Cardiac Medications for Field Reference]]
-- [[Psychiatric Medications for Field Reference 💊 📓]]
+- [[Psychiatric Medications for Field Reference  📓]]
 ### **Ambulance Related Protocols & Checklists:**
 - [[Ambulance Procedural Protocols 1]]
 - [[Checklist - Cardiac Status]]

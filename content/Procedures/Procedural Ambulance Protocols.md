@@ -7,7 +7,7 @@
 - [[Fibrinolysis]]
 - [[Modified Valsalva Manoeuvre]]
 
-**[[Medical and Toxicological Conditions 🌿🧪]]**
+**[[Medical and Toxicological Conditions 🌿]]**
 
 
 **[[Trauma Care in Paramedic Practice 💀💔]]**

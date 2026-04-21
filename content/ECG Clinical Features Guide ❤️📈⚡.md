@@ -43,6 +43,8 @@ _________
 
 [[OMI & NOMI]]
 
+[[STEMI Mimics]]
+
 _______
 ### ***Electrolyte Imbalances***
 - [[Hyperkalaemia 🍌]] 

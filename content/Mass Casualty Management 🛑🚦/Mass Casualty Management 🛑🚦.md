@@ -1,5 +1,8 @@
 > [!note] 🚨 Clinical Features
-> [[SIEVE & SORT]]
+> - Windscreen SITREP
+>-  METHANE SITREP
+>- [[SIEVE & SORT]]
+> 
 
 
 
@@ -7,6 +10,13 @@ Meet:  ***The Triage Tactician***
 
 
 ________
+**Windscreen SITREP:**
+
+
+
+![[Methane]]
+
+
 *SMART Triage System:*
 ***Equipment:***
 - Triage Tags
@@ -28,5 +38,5 @@ ________
 
 ![[Pasted image 20250615231020.png]]
 
-![[Methane]]
+
 

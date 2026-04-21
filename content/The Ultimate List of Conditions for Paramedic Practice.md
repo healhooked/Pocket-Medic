@@ -116,7 +116,7 @@
 - Suicidal Patient
 - Depression
 - Anxiety & Panic
-- [[Psychogenic Seizures]]
+- [[Psychogenic Non Epileptic Seizures]]
 
 ## ❤️ Cardiac
 

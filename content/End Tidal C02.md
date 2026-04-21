@@ -46,3 +46,31 @@ See Figure 2 of Kodali 2013 and [Interpret your capnogram](https://www.capnogra
 - air leak
 - malignant hyperthermia
 - air / oxygen dilution during mask sampling of spontaneously breathing patients
+________
+ETT In Esophagus
+![[Pasted image 20260407124648.png]]
+
+- Think, confirm and correct –
+    - A/ Oesophageal intubation,
+    - B/ Not ventilating,
+    - C/ Cardiac arrest, or
+    - D/ Equipment failure (e.g. Zoll CO2 button not pressed)
+
+![[Pasted image 20260407124735.png|324]]
+
+- Declining ETCO2 think, confirm and correct-
+    - A/ oesophageal intubation if rapidly falling over the six initial ventilations
+    - B/ hyperventilation
+    - C/ falling cardiac output
+
+![[Pasted image 20260407124833.png]]
+- Rising ETCO2 - think, confirm and correct
+    - B/ hypoventilation
+    - C/ rise in cardiac output
+    - E/ (seen in post Sodium Bicarbonate administration tourniquet release and crush injury)
+
+![[Pasted image 20260407125018.png]]
+
+- Shark fin shape think obstruction and confirm and correct –
+    - A/ endotracheal tube and circuit kinks or obstruction
+    - B/ bronchospasm

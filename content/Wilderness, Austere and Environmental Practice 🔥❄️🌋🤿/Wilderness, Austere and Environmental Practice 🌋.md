@@ -5,9 +5,12 @@
 >[[🌊Drowning]]
 
 _________
-Meet: ***Scuba Steve*** the Austere Adventurer - **The Resource Poor and Environmentally Conscious Paramedic**
+# Meet: **Scuba Steve** the Austere Adventurer - The Resource Poor and Environmentally Conscious Paramedic
+
 *scuba steve can work in any environment. Everybody loves a scuba steve 🤿*
+
 ![[file_00000000159c61f988b583e188674d8b.png|346x346]]
+
 
 _______
 

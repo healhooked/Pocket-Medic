@@ -1,6 +1,6 @@
 
 > [!note] Indications - 
-> [!note] Indications - IV, IO Infusion
+> Indications - IV, IO Infusion
 > Inadequate Tissue Perfusion
 > [[Hypovolaemia]]
 > [[Shock]]

@@ -17,11 +17,8 @@
 
 0.05% of Ambulance Caseload is Intrapartum Care
 <10% of these resulting in a birth in Paramedic Care
-
-_______________
-# Evidence Based Principals of Practice
-## Meet: Ricky Rescue the Neonatal Nurturer - *The Maternal and Neonatal Paramedic
-### Ricky always delivers
+# Meet: Ricky Rescue the Neonatal Nurturer - The Maternal and Neonatal Paramedic
+Ricky always delivers
 ![[ChatGPT Image Jun 20, 2025, 03_39_15 PM.png|311x311]]
 
 

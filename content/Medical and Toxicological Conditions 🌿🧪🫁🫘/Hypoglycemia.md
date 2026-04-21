@@ -25,7 +25,7 @@ Autonomic features can be masked by [[beta blockers]]
 - Visual disturbances
 - Slurred speech
 - Coma
-- [[Epilepsy & or Seizure 1]]
+- [[Epilepsy & or Seizure]]
 ________________
 **Field Reference - Pathophysiology**
 

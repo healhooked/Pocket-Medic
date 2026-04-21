@@ -1,4 +1,4 @@
-Deliver shoulders, hands must be wrapped around the hips, no higher than the buttocks.
+qDeliver shoulders, hands must be wrapped around the hips, no higher than the buttocks.
 
 ![[image-13 3.png]]
 
