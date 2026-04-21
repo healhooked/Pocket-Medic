@@ -9,7 +9,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
   return (
     <div class={classNames(displayClass, "page-title")}>
       <a href={baseDir}>
-        <img src="https://healhooked.github.io/Pocket-Medic/logo.png" style="width: 60px; height: 90px; display: block; margin-bottom: 8px;" />
+        <img src="https://healhooked.github.io/Pocket-Medic/logo.png" style="width: 100px; height: 150px; display: block; margin-bottom: 8px;" />
         <span>{title}</span>
       </a>
     </div>
