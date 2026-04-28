@@ -9,7 +9,7 @@
 - [[Pneumonia]]
 - [[Pneumothorax 🫁]]
 - Actelectasis
-- [[Respiratory Failure]]
+- [[Respiratory Conditions🫁🌬️💨⚕️/Respiratory Failure]]
 
 ***Field Reference - Pathophysiology***
 Fracture of two or more adjacent ribs in two or more places with loss of chest wall stability

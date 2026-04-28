@@ -2,7 +2,7 @@
 - [[Acute Behavioural Disturbance (ABD)]]
 - [[Emergency Examination Authority (EEA)]]
 
-**[[Cardiac Conditions🫀🩺]]**
+**[[Cardiac Conditions🫀🩺 1]]**
 - [[pPCI Referral]]
 - [[Fibrinolysis]]
 - [[Modified Valsalva Manoeuvre]]

@@ -6,7 +6,7 @@
 > ***Extended Scope:***
 > Bronchospasm OR Silent Chest ([[Asthma 🐡]], [[COPD 🚬]], [[Anaphylaxis]])
 > [[Shock]] (unresponsive to fluid resuscitation)
-> [[Bradycardia]] with Poor Perfusion (Unresponsive to [[Atropine]] AND /  [[Synchronized Cardioversion]] )
+> [[Bradycardia]] with Poor Perfusion (Unresponsive to [[Atropine]] AND /  [[Synchronized Cardioversion 1]] )
 >
 
 **Field Reference - Pharmacology:**

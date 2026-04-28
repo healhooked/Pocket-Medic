@@ -1,11 +1,11 @@
 > [!note] 🚨 ***Common Mental Health Presentations in Paramedic Practice ***
 > [[Acute Behavioural Disturbance (ABD)]]
-> 	- [[Psychosis Disorders]]
-> [[The Acutely Suicidal Patient]]
+> 	- [[Psychosis Disorders 1]]
+> [[The Acutely Suicidal Patient 1]]
 > [[The Depressed Patient]]
 > [[The Acutely Anxious and Panicked Patient]]
 > [[Psychogenic Non Epileptic Seizures]]
->[[Delirium]]
+>[[Delirium 1]]
 >[[Substance Use Disorders]]
 > 
 > 
@@ -24,7 +24,7 @@ _____________
 - **Sedation:** CPP: [[Emergency Sedation]] for ABD 
 - ([[Droperidol]] first‑line) ; DTP: Midazolam dosing  
 
-***[[The Acutely Suicidal Patient]]***
+***[[The Acutely Suicidal Patient 1]]***
 - Towards zero notes
 
 *[[The Depressed Patient]]*
@@ -34,9 +34,9 @@ _____________
 - *[[Psychogenic Non Epileptic Seizures]]*
 - Panic Attacks
 
-*[[Delirium]]*
+*[[Delirium 1]]*
 
-*[[Psychosis Disorders]]*
+*[[Psychosis Disorders 1]]*
 
 *[[Substance Use Disorders]]*
 ***Overdose & Poisoning***  

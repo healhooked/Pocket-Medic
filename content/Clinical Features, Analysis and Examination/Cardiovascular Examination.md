@@ -42,7 +42,7 @@ ___________________________
 ### **[[CV - Auscultation]]:** 
 - **Carotids**: [[Bruits]]?
 - [[Heart Sounds]]
-- [[Lung Sounds & Auscultation Sites]]
+- [[Lung Sounds & Auscultation Sites 1]]
 # **Abdomen, Back & Pelvis**
 
 **Abdomen:**

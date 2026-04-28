@@ -73,7 +73,7 @@ ___________________________
 - **[[Glucagon]]** – [[Hypoglycemia]] when no IV access.
 
 ***Extended Scope:***
-	**- [[Insulin (Short-acting – Actrapid®)]]** – [[Hyperkalaemia 🍌]], [[Diabetic Emergencies]]
+	**- [[Insulin (Short-acting – Actrapid®) 1]]** – [[Hyperkalaemia 🍌]], [[Diabetic Emergencies]]
 	**- [[Levetiracetam]] –** Antiepileptic.
 	**- [[Lorazepam]] –** Benzodiazepine for seizures.
 
@@ -139,5 +139,5 @@ ____________________________________
 
 ***Extended Scope:***
 	- **[[Tirofiban]]** – Antiplatelet (less common prehospital).
-	- **[[Packed Red Blood Cells]]** – Advanced retrieval/trauma.
+	- **[[Drug Therapy and Pharmacology/Packed Red Blood Cells]]** – Advanced retrieval/trauma.
 	- Human Fibrinogen

@@ -47,7 +47,7 @@ _______________________
 - Amputations
 - [[Ligament & Soft Tissue Injury]]
 ________________________________
-# [[Traumatic Spinal Cord Injury 🧑🦽]]
+# [[Traumatic Spinal Cord Injury 🧑🦽 1]]
 - Primary SCI
 - Secondary SCI
 

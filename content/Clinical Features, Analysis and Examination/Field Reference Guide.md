@@ -17,11 +17,11 @@
 > - [[Diagnostic Reference Guide for Mental Health Conditions📓🧠]]
 > - [[Mental Status Examination]]
 > - [[Psychiatric Medications for Field Reference  📓]]
->#### [[Cardiac Conditions🫀🩺]]
+>#### [[Cardiac Conditions🫀🩺 1]]
 > - [[Acute Coronary Syndrome (ACS)]]
 > - [[Cardiac Arrest & Resuscitation]]
 > - [[Supraventricular Tachycardia (SVT)]]
-> - [[ECG Clinical Features Guide ❤️📈⚡]]
+> - [[ECG Clinical Features Guide ❤️📈⚡ 1]]
 > - [[Cardiac Medications for Field Reference]]
 > - [[Cardiovascular Examination]]
 >#### [[Trauma Care 💀]]
@@ -58,13 +58,13 @@
 > #### [[Disaster Health Medicine]]
 > 
 # **Clinical Assessment, History and Feature Analysis**
- [[Clinical History, Examination & Analysis🩺⚕️]]
+ [[Clinical History, Examination & Analysis🩺⚕️ 1]]
 #### [[Primary Survey - DRcABCDE]] 
-#### [[Secondary Survey]]:
+#### [[Secondary Survey 1]]:
 - [[Vital Sign Survey (VSS)]]
 - [[Pain Assessment - OPQRST]]
 - [[SAMPLE]]
-- [[GCS]]
+- [[GCS 1]]
 - [[Trauma Informed Head to Toe - Physical Examination]]
 - [[Pupil Analysis]]
 ### History Taking : Systems Oriented 
@@ -92,7 +92,7 @@
 ### Pathology-Oriented Assessment
 - [[Stroke Assessment]] 
 - [[SEPSIS]]
-- [[Sepsis Screening]]
+- [[Sepsis Screening 1]]
 ### Special Populations
 - [[Paediatric & Neonatal Considerations 🍼🐣🐤]]
 - [[Geriatric Considerations]]

@@ -25,7 +25,7 @@ Genetic Link and Epigenetic Factors
 - [[Emergency Examination Authority (EEA) (EEA)]]
 
 
-- **Definition**: Schizophrenia is a specific mental disorder that is classified as a type of [[Psychosis Disorders]]. It is characterized by persistent symptoms of [[Psychosis Disorders]], along with other cognitive and emotional disturbances.
+- **Definition**: Schizophrenia is a specific mental disorder that is classified as a type of [[Psychosis Disorders 1]]. It is characterized by persistent symptoms of [[Psychosis Disorders 1]], along with other cognitive and emotional disturbances.
 - **Symptoms**: Symptoms of schizophrenia include:
     - Hallucinations (often auditory)
     - Delusions (e.g., paranoid beliefs)

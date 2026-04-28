@@ -6,6 +6,6 @@
     - Trauma or extreme stress
 - **Duration**: Psychosis can be temporary and may occur in episodes. It can happen in various contexts and is not limited to a specific diagnosis.
 
-- [[Delirium]]
-- [[Sedatives & Anxiolytics - SUD]]
-- [[Cannabis - SUD]]
+- [[Delirium 1]]
+- [[Sedatives & Anxiolytics - SUD 1]]
+- [[Cannabis - SUD 1]]

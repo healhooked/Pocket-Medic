@@ -3,12 +3,12 @@
 - [[Hypoglycemia]]
 - [[Hyperglycemia]]
     - [[Diabetic Keto Acidosis (DKA)]]
-    - [[Hyperosmolar Hyperglycemic Syndrome (HHS)]]
+    - [[Hyperosmolar Hyperglycemic Syndrome (HHS) 1]]
 ## 🧠 Neurological
 - [[Stroke & or Transient Ischaemic Attack]]
 - [[Headaches & Migraines]]
 - [[Dementia]]
-- [[Delirium]]
+- [[Delirium 1]]
 
 ## 🦠 Infectious Diseases
 - [[SEPSIS]]

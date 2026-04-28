@@ -23,7 +23,7 @@ Multipurpose Tool - The Safety Pin:
 Tracheal Hook, wound closure, finger splint, secure ETI, 
 >![](https://www.youtube.com/watch?v=sXjLPbAsezk&ab_channel=TacMedSolutions%E2%84%A2)
 
-![[Improvised Chest Seal]]
+![[Improvised Chest Seal 1]]
 
 *Improvised Torniquet*
 >![](https://www.youtube.com/watch?v=nVBALUdrIOc&ab_channel=RealResponse)

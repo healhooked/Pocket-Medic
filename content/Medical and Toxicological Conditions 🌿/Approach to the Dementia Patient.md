@@ -12,7 +12,7 @@ ____________________
 - [[Posterior Cortical Atrophy]] (PCA)
 - [[HIV-Associated Dementia]] (HAD)
 ---
-![[Dementia Cognitive Assessment - Screening]]
+![[Dementia Cognitive Assessment - Screening 1]]
 
 ---
 🔹 2. Collateral History is Key

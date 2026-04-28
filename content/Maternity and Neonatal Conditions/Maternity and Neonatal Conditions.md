@@ -19,7 +19,7 @@
 <10% of these resulting in a birth in Paramedic Care
 # Meet: Ricky Rescue the Neonatal Nurturer - The Maternal and Neonatal Paramedic
 Ricky always delivers
-![[ChatGPT Image Jun 20, 2025, 03_39_15 PM.png|311x311]]
+![[ChatGPT Image Jun 20, 2025, 03_39_15 PM 1.png|311x311]]
 
 
 

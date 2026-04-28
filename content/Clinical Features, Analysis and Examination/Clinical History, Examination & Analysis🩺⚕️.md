@@ -2,11 +2,11 @@
 
 *[[Primary Survey - DRcABCDE]]* 
 
-*[[Secondary Survey]]:*
+*[[Secondary Survey 1]]:*
 - [[Vital Sign Survey (VSS)]]
 - [[Pain Assessment - OPQRST]]
 - [[SAMPLE]]
-- [[GCS]]
+- [[GCS 1]]
 - [[Trauma Informed Head to Toe - Physical Examination]]
 - [[Pupil Analysis]]
 
@@ -31,7 +31,7 @@ _______
 *Pathology-Oriented Assessment:*
 - [[Stroke Assessment]] 
 - [[SEPSIS]]
-- [[Sepsis Screening]]
+- [[Sepsis Screening 1]]
 
 *Special Populations*
 - [[Paediatric & Neonatal Considerations 🍼🐣🐤]]

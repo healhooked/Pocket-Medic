@@ -11,7 +11,7 @@
 *[[Benzodiazepines 1]]*
 
 *Cannabis*
-- Cannabis induced [[Psychosis Disorders]]
+- Cannabis induced [[Psychosis Disorders 1]]
 - Cannabis induced [[Hyperemesis]]
 
 *[[Antidepressants]]*

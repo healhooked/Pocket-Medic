@@ -16,7 +16,7 @@ _______
 - [[Hyperthermia]]
 
 ***Environmental Poisoning***
-- [[Organophosphate Poisoning]]
+- [[Organophosphate Poisoning 1]]
 - [[Carbon Monoxide Poisoning]]
 - [[Decompression Injuries]]
 

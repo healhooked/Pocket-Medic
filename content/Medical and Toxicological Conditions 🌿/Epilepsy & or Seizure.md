@@ -23,7 +23,7 @@
 11. Recent illness, med change, alcohol, sleep loss?  
 
 _____________
-## ***Consider - Reversible Causes***
+## Consider - Reversible Causes
 #### Metabolic disturbances
 - [[Hypoglycemia]] (low blood sugar)
 - [[Hyperglycemia]] (especially non-ketotic hyperosmolar states)
@@ -39,10 +39,10 @@ _____________
 
 #### Toxins and drugs
 - Withdrawal - ([[Alcoholism - SUD 1]]])
-- Withdrawal - ([[Sedatives & Anxiolytics - SUD]]) (e.g. benzodiazepines)
-- [[Stimulant - SUD]], & Illicit Drug Use (e.g., cocaine, amphetamines, ecstasy)
+- Withdrawal - ([[Sedatives & Anxiolytics - SUD 1]]) (e.g. benzodiazepines)
+- [[Stimulant - SUD 1]], & Illicit Drug Use (e.g., cocaine, amphetamines, ecstasy)
 - Drug toxicity (e.g., from [[Tramadol]], isoniazid, theophylline, [[Lithium]])
-- [[Organophosphate Poisoning]] (e.g., lead, organophosphates)
+- [[Organophosphate Poisoning 1]] (e.g., lead, organophosphates)
 
 #### Infections
 - Meningitis ([[Meningococcal Meningitis]])
@@ -65,7 +65,7 @@ _____________
 - Eclampsia (in pregnancy)
 - Catamenial seizures (menstrual cycle-related)
 ______________________
-*![[Seizure Terminology & Taxonomy]]*
+*![[Seizure Terminology & Taxonomy 1]]*
 ________________________________
 Identifying Seizures
 - **Trigger Warning** - this footage contains active seizures
@@ -75,7 +75,7 @@ Identifying Seizures
 **1. Focal (Neonatal Seizure**)
 	![](https://www.youtube.com/watch?v=qEMxoUNcOeY&ab_channel=TESSResearchFoundation)
 __________________
-*[[Common Epilepsy Controlling Medications]]*
+*[[Drug Therapy and Pharmacology/Common Epilepsy Controlling Medications]]*
 - **Midazolam / Diazepam**  
     ↳ **First-line for acute seizures and status epilepticus**.  
     ↳ Fast-acting benzodiazepines (IM, IV, or buccal routes).

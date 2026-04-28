@@ -1,7 +1,7 @@
 - [[Open Pneumothorax]]
 - [[Closed Pneumothorax]]
 - [[Tension Pneumothorax 💨🫁]] 
-- [[Heamothorax]]
+- [[Heamothorax 1]]
 
 __________
 

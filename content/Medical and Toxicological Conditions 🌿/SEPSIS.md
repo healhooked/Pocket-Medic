@@ -17,7 +17,7 @@ IV/IO access
     - Cyanosis
     - Organ dysfunction:
         - Oliguria / Acute Kidney Injury (AKI)
-        - Altered mental status - *[[GCS]] ?*
+        - Altered mental status - *[[GCS 1]] ?*
 
 > ⚠️ _Non-specific; can mimic conditions like pancreatitis or ARDS_
 

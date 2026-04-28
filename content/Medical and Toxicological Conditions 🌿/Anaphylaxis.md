@@ -32,11 +32,11 @@ ________________________________
 
 | **System Presentations**                                                                           | **Clinical Features**                                                |
 | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| **<span style="background:#fff88f">Cutaneous**                                      </span>        | - <span style="background:#fff88f">[[Urticaria]] (hives)</span>      |
+| **<span style="background:#fff88f">Cutaneous**                                      </span>        | - <span style="background:#fff88f">[[Urticaria 1]] (hives)</span>      |
 |                                                                                                    | - <span style="background:#fff88f">[[Angioedema 1]]</span>             |
-|                                                                                                    | - <span style="background:#fff88f">[[Pruritus]]</span>               |
-|                                                                                                    | - <span style="background:#fff88f">Flushing/[[erythema]]</span>      |
-| **<span style="background:#b1ffff">Respiratory</span>**                                            | - <span style="background:#b1ffff">[[Dyspnoea]]</span>               |
+|                                                                                                    | - <span style="background:#fff88f">[[Pruritus 1]]</span>               |
+|                                                                                                    | - <span style="background:#fff88f">Flushing/[[erythema 1]]</span>      |
+| **<span style="background:#b1ffff">Respiratory</span>**                                            | - <span style="background:#b1ffff">[[Dyspnoea 1]]</span>               |
 |                                                                                                    | - <span style="background:#b1ffff">[[Wheeze]]</span>                 |
 |                                                                                                    | - <span style="background:#b1ffff">[[Stridor]]</span>                |
 |                                                                                                    | - <span style="background:#b1ffff">Upper airway oedema</span>        |
@@ -57,7 +57,7 @@ Allergen Exposure -> IgE antibodies -> **Mast Cell Activation** ->  degranulate
 Release of Mediators ++ histamine, leukotrienes, and prostaglandins.
 
    - <span style="background:#fff88f">Vasodilation</span> and increased <span style="background:#ff4d4f">vascular permeability</span> -> [[Hypotension]] and [[Angioedema 1]]
-   - <span style="background:#b1ffff">Bronchoconstriction</span> -> [[Dyspnoea]]
+   - <span style="background:#b1ffff">Bronchoconstriction</span> -> [[Dyspnoea 1]]
    - <span style="background:#d3f8b6">Gastrointestinal symptoms</span> (nausea, vomiting, diarrhea)
 
 Untreated -> [[Shock]], [[Respiratory Distress]]

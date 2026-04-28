@@ -24,13 +24,13 @@ ______
  - [[Hypoglycemia]]
  - [[Hyperglycemia]]
 	- [[Diabetic Keto Acidosis (DKA)]]
-	- [[Hyperosmolar Hyperglycemic Syndrome (HHS)]]
+	- [[Hyperosmolar Hyperglycemic Syndrome (HHS) 1]]
 _________________
 ## 🧠Neuro:
  - [[Stroke & or Transient Ischaemic Attack]]
  - [[Headaches & Migraines]]
  - [[Approach to the Dementia Patient]]
- - [[Delirium]]
+ - [[Delirium 1]]
 _________________
 ## 🦠 Infectious:
  - [[SEPSIS]]
@@ -61,14 +61,14 @@ __________________
 
 **[[Substance Use Disorders]]** 
 	- [[Alcoholism - SUD 1]]
-	- [[Opioid & Opiate - SUD]] 
-	- [[Inhalants - SUD]]
-	- [[Sedatives & Anxiolytics - SUD]]
-	- [[Cannabis - SUD]]
+	- [[Opioid & Opiate - SUD 1]] 
+	- [[Inhalants - SUD 1]]
+	- [[Sedatives & Anxiolytics - SUD 1]]
+	- [[Cannabis - SUD 1]]
 
 **[[Approach to the Poisoned Patient]]**
  - [[Anticholinergic]]
- - [[Organophosphate Poisoning]]
+ - [[Organophosphate Poisoning 1]]
  - [[Cyanide Poisoning]]
  - [[Carbon Monoxide Poisoning]]
  - [[Corrosive Agent]]

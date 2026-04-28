@@ -51,7 +51,7 @@ _________________________________
     
     - Mitral: 5th ICS, midclavicular line
         ![[Screenshot_20250608_022200_Elsevier eBooks+~2.jpg|240x425]]
-- **![[Lung Sounds & Auscultation Sites]]**
+- **![[Lung Sounds & Auscultation Sites 1]]**
 _______________________________
 ##### **Abdomen, Back & Pelvis**
 

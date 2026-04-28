@@ -28,7 +28,7 @@ Additionally:
 - The symptoms cause significant distress or impairment in daily functioning.
 - The symptoms are **not due to substance use, medical conditions, or normal postpartum changes**.
 
-The DSM-5-TR also recognizes **postpartum [[Psychosis Disorders]]** as a rare but severe variant of PPD, often associated with **bipolar disorder**.
+The DSM-5-TR also recognizes **postpartum [[Psychosis Disorders 1]]** as a rare but severe variant of PPD, often associated with **bipolar disorder**.
 
 ### ICD-11
 

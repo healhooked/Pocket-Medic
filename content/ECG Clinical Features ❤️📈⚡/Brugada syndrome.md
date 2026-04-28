@@ -14,7 +14,7 @@ Alcohol
 Hypokalaemia
 Hyperkalaemia
 [[❄️ Hypothermia]]
-Post DC [[Synchronized Cardioversion]]
+Post DC [[Synchronized Cardioversion 1]]
 Diagnostic Criteria
 Type 1
 Coved ST segment elevation >2mm in >1 of V1-V3 followed by a negative T wave.

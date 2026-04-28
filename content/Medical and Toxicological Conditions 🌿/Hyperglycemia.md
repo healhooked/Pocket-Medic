@@ -2,17 +2,17 @@
 > [[Sodium Chloride 0.9%]]
 > [[Oxygen]]
 >  ***Consider:***
-> [[Hyperosmolar Hyperglycemic Syndrome (HHS)]]
+> [[Hyperosmolar Hyperglycemic Syndrome (HHS) 1]]
 (> 40 mmol/L)
 >
 [[Diabetic Keto Acidosis (DKA)]]
  (Glucose, > 10 mmol/L)
  (Ketones, 1.6 - >3 mmol/L)
 > ***Extended Scope:***
-> [[Insulin (Short-acting – Actrapid®)]]
+> [[Insulin (Short-acting – Actrapid®) 1]]
 
 *Presentation*
-*Neurological* - *[[GCS]]?*
+*Neurological* - *[[GCS 1]]?*
 - Lethargy
 - ALOC
 - [[Epilepsy & or Seizure]]
@@ -22,7 +22,7 @@
 - Pale, cool or clammy
 - Flushed, hot if febrile
 
-[[Kussmaul Respirations]] - severe metabolic acidosis
+[[Kussmaul Respirations 1]] - severe metabolic acidosis
 ____________________
 *Aetiology of DKA and HHS*
 - [[Acute Coronary Syndrome (ACS)]]

@@ -1,5 +1,0 @@
-- Fluids
-- Ventilation Strategy
-- Calcium Gluconate 
-- Sodium Bicarbonate
-- 

@@ -13,7 +13,7 @@ Authorizes temporary detention and transport of a person to a treatment or care 
 • Acts or threats of self-harm  
 • Reckless behavior endangering self or others  
 • Deterioration in mental state  
-• Symptoms of mania, [[Psychosis Disorders]], or other behavioral disturbances  
+• Symptoms of mania, [[Psychosis Disorders 1]], or other behavioral disturbances  
 • Aberrant behavior compromising patient safety  
 
 4. ***Transport and detention:***  

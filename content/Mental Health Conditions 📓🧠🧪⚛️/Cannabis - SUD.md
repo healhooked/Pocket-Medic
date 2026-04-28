@@ -7,7 +7,7 @@
 [[Medicinal Cannabis]]
 
 *Associated Presentations*
-- Cannabis induced [[Psychosis Disorders]]
+- Cannabis induced [[Psychosis Disorders 1]]
 - Cannabis induced [[Hyperemesis]]
 
 Street Names: dope, weed, pot, ganja, bhang, choof, mull, yarndi

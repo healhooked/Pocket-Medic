@@ -18,7 +18,7 @@
 
 Typically monoaminergic antagonists (dopamine prioirty)
 
-Link to dopamine hypothesis of [[Psychosis Disorders]]
+Link to dopamine hypothesis of [[Psychosis Disorders 1]]
 
 [[Typical Antipsychotic, First Generation]]
 [[Atypical Antipsychotic, Second Generation]]

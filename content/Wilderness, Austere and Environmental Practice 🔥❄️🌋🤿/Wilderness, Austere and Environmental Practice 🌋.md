@@ -19,7 +19,7 @@ _______
 - [[🌡️Hyperthermia]]
 
 🧪***Environmental Toxicology***
-- [[Organophosphate Poisoning]]
+- [[Organophosphate Poisoning 1]]
 - [[Carbon Monoxide Poisoning]]
 - [[Decompression Syndrome (DCS)]]
 - [[Chemical Burns]] / Toxins (including industrial & agricultural)

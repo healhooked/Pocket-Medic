@@ -32,21 +32,21 @@ ________________
 | Clinical Feature                         | Moderate                       | Severe                                                     | Life Threatening                                                                                          |
 | ---------------------------------------- | ------------------------------ | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | **Appearance**                           | Alert                          | Agitated, distressed, Prefers upright posture.             | ALOC, Exhausted, unconscious                                                                              |
-| **[[Respiratory Rate]]** (per min)       | 20–30                          | > 25–30                                                    | Bradypnoea, [[Paradoxical Respiration]]                                                                   |
+| **[[Respiratory Rate]]** (per min)       | 20–30                          | > 25–30                                                    | Bradypnoea, [[Paradoxical Respiration 1]]                                                                   |
 | **[[Work of breathing]]**                | +                              | Accessory muscle use, Upright posture,[[Tracheal Tugging]] | Poor respiratory effort, paradoxical breathing                                                            |
-| **[[Lung Sounds & Auscultation Sites]]** | Expiratory [[Wheeze]]          | Expiratory & Inspiratory [[Wheeze]]                        | Silent chest                                                                                              |
+| **[[Lung Sounds & Auscultation Sites 1]]** | Expiratory [[Wheeze]]          | Expiratory & Inspiratory [[Wheeze]]                        | Silent chest                                                                                              |
 | **[[Oxygen]] Saturation**                | ≥ 92% on room air              | < 92% on room air                                          | < 90% despite [[Oxygen]] admin                                                                            |
 | [[Perfusion Status Assessment (PSA)]]    | Normal pulse and color         | [[Tachycardia]] (>110 HR), [[Pallor]], Diaphoretic         | [[Bradycardia]], [[Hypotension]], Cyanotic, Clammy, Cold                                                  |
 | **Pulsus Paradoxus**                     | Absent or < 25 mmHg            | > 25 mmHg                                                  | Absent (sign of poor effort)                                                                              |
 | [[PEFR]]                                 | > 50% predicted or > 100 L/min | < 50% predicted or < 100 L/min                             | Not measurable or very low                                                                                |
-| **Markers of Imminent Arrest**           | —                              | —                                                          | Altered mental status, [[Paradoxical Respiration]], bradycardia, quiet chest, absence of pulsus paradoxus |
+| **Markers of Imminent Arrest**           | —                              | —                                                          | Altered mental status, [[Paradoxical Respiration 1]], bradycardia, quiet chest, absence of pulsus paradoxus |
 |                                          |                                |                                                            |                                                                                                           |
   
-- Markers of Imminent Arrest - [[Paradoxical Respiration]], Bradycardia.
+- Markers of Imminent Arrest - [[Paradoxical Respiration 1]], Bradycardia.
 
 ### *Clinical Presentation*
 - Increased WOB
-- [[Dyspnoea]]
+- [[Dyspnoea 1]]
 - [[Cough]]
 - [[Wheeze]]
 - Chest tightness

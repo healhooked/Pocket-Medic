@@ -2,7 +2,7 @@
 
 
 *[[Paediatric Resuscitation]]*
-![[WETFLAG]]
+![[WETFLAG 1]]
 
 
 

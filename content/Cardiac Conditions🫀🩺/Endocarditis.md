@@ -21,7 +21,7 @@ ECG - Features:
 _______________________
 *Risk Factors:*
 - [[Congenital Heart Disease]]
-- [[Rheumatic Heart Disease]]
+- [[Rheumatic Heart Disease 1]]
 - Valve Regurgitation, prolapse, stenosis & prostheisis
 
 - IV Drug - [[Substance Use Disorders]]?

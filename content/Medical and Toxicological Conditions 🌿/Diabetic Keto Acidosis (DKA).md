@@ -1,7 +1,7 @@
 (Glucose, > 10 mmol/L)  
 (Ketones, 1.6 - >3 mmol/L)
 
-[[Kussmaul Respirations]] - severe metabolic acidosis
+[[Kussmaul Respirations 1]] - severe metabolic acidosis
 
 PATHOGENESIS
 

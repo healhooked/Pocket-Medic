@@ -1,11 +1,11 @@
 > [!note] Treatment
-***Prevention*** of [[Secondary Brain Injury]] 
+Prevention of [[Secondary Brain Injury]]:
 Early Airway Management
 [[Rapid Sequence Induction(RSI)]]
 Ventilate at Normal levels (normocapnia unless neurological deterioration documented)
 Circulation (aggressively avoid hypotension; use crystalloid fluids – avoid albumin solutions)
-protect c-spine
-timely transport to a neurosurgical unit
+Protect c-spine
+Timely transport to a neurosurgical unit
 
 > [!help] Treatment *Consider*
 > Hypotension with a concurrent traumatic brain injury is associated with poor outcomes. In such settings, paramedics must administer the minimum amount of IV fluid required to maintain a systolic 

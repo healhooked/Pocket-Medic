@@ -29,4 +29,4 @@ Autonomic features can be masked by [[beta blockers]]
 ________________
 **Field Reference - Pathophysiology**
 
-![[Hypoglycemia - Pathophysiological Basis of Symptomology]]
+![[Hypoglycemia - Pathophysiological Basis of Symptomology 1]]

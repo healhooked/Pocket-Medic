@@ -1,13 +1,13 @@
 🧠 **Table 1: Cognitive, Mood & Anxiety-Related Disorders by Substance Class**
 
-| Diagnosis                    | [[Alcoholism - SUD 1]] | [[Cannabis - SUD]] | [[Hallucinogens - SUD]] | [[Inhalants - SUD]] |
+| Diagnosis                    | [[Alcoholism - SUD 1]] | [[Cannabis - SUD 1]] | [[Hallucinogens - SUD]] | [[Inhalants - SUD 1]] |
 | ---------------------------- | -------------------- | ------------------ | ----------------------- | ------------------- |
-| [[Psychosis Disorders]]      | *I/W*                | *I*                | *I***                   | *I*                 |
-| [[Bipolar & Mood Disorders]] | *I/W*                |                    | *I*                     |                     |
+| [[Psychosis Disorders 1]]      | *I/W*                | *I*                | *I***                   | *I*                 |
+| [[Bipolar & Mood Disorders 1]] | *I/W*                |                    | *I*                     |                     |
 | [[Depression Disorders]]     | *I/W*                |                    | *I*                     | *I*                 |
 | [[Anxiety Disorders]]        | *I/W*                | *I*                | *I*                     | *I*                 |
-| [[OCD]]                      |                      |                    |                         |                     |
-| [[Delirium]]                 | *I/W*                | *I*                | *I*                     | *I*                 |
+| [[OCD 1]]                      |                      |                    |                         |                     |
+| [[Delirium 1]]                 | *I/W*                | *I*                | *I*                     | *I*                 |
 | [[Neurocognitive Disorders]] | *X (m/m)*            |                    |                         | *X (m/m)*           |
 | *Withdrawal*                 | *X*                  | *X*                |                         |                     |
 
@@ -21,14 +21,14 @@ _____________________________
 
 💊 **Table 2: Sedatives, Opioids, Stimulants & Miscellaneous**
 
-| Diagnosis                    | [[Opioid & Opiate - SUD]] | [[Sedatives & Anxiolytics - SUD]] | [[Stimulant - SUD]] |
+| Diagnosis                    | [[Opioid & Opiate - SUD 1]] | [[Sedatives & Anxiolytics - SUD 1]] | [[Stimulant - SUD 1]] |
 | ---------------------------- | ------------------------- | --------------------------------- | ------------------- |
-| [[Psychosis Disorders]]      |                           | *I/W*                             | *I*                 |
-| [[Bipolar & Mood Disorders]] |                           | *I/W*                             | *I/W*               |
+| [[Psychosis Disorders 1]]      |                           | *I/W*                             | *I*                 |
+| [[Bipolar & Mood Disorders 1]] |                           | *I/W*                             | *I/W*               |
 | [[Depression Disorders]]     | *I/W*                     | *I/W*                             | *I/W*               |
 | [[Anxiety Disorders]]        | *W*                       | *W*                               | *I/W*               |
-| [[OCD]]                      |                           |                                   | *I/W*               |
-| [[Delirium]]                 | *I/W*                     | *I/W*                             | *I*                 |
+| [[OCD 1]]                      |                           |                                   | *I/W*               |
+| [[Delirium 1]]                 | *I/W*                     | *I/W*                             | *I*                 |
 | [[Neurocognitive Disorders]] |                           | *X (m/m)*                         | *X (mild)*          |
 | *Withdrawal*                 | *X*                       | *X*                               | *X*                 |
 

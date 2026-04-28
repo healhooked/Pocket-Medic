@@ -13,7 +13,7 @@
 - [[Plethysmography]]
 
 *Neuro*
-- [[GCS]] - ALOC?
+- [[GCS 1]] - ALOC?
 
 [[Temperature]]
 [[Blood Glucose Monitoring]]

@@ -9,7 +9,7 @@
 ***Indicated for:***
 - [[Major Depressive Disorder]]
 - [[Anxiety Disorders]]
-- [[OCD]]
+- [[OCD 1]]
 - [[Post-Traumatic Stress Disorder (PTSD)]]
 - [[Anorexia Nervosa]]
 - [[Substance Use Disorders]]

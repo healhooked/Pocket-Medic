@@ -19,7 +19,7 @@ Splints:
 - Upper Limb Splint
 
 ***Airway Management***
-- [[Oropharyngeal Airway]]
+- [[Oropharyngeal Airway 1]]
 - [[Nasopharyngeal Airway]]
 - [[Laryngeal Mask Airway (LMA)]]
 - Suction

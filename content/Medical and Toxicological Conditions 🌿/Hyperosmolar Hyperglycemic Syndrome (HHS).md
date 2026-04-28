@@ -3,7 +3,7 @@
 [[Sodium Chloride 0.9%]]
 [[Oxygen]]
 ***Extended Scope:***
-[[Insulin (Short-acting – Actrapid®)]]
+[[Insulin (Short-acting – Actrapid®) 1]]
 
 ***Clinical Considerations:***
 • BGL: DKA (> 10 mmol/L) AND/OR HHS (> 40 mmol/L)
@@ -41,7 +41,7 @@ _______________
 
 ***Clinical Considerations:***
 • BGL: > 40 mmol/L
-• [[Kussmaul Respirations]] a are not seen in HHS
+• [[Kussmaul Respirations 1]] a are not seen in HHS
 
 **EXAMINATION**
 

@@ -21,9 +21,9 @@
 
 ***Psychosis related disorders:***
 - [[Schizophrenia]]
-- [[Psychosis Disorders]]
+- [[Psychosis Disorders 1]]
 
 - [[Substance Use Disorders]]
-- [[OCD]]
+- [[OCD 1]]
 
 

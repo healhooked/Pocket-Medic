@@ -21,7 +21,7 @@
 | [[Congestive Heart Failure (CCF)]] / [[Chronic Kidney Failure]] | Conservative administration due to fluid restrictions  <br>Risk of [[Acute Pulmonary Oedema (APO) & ARDS 💦🫁]]                                                    |
 | [[Traumatic Brain Injury 🧠]]                                   | **Permissive hypotension is contraindicated**  <br>Target SBP between 100–120 mmHg                                                                                 |
 | Uncontrolled [[Hemorrhage 🩸]]                                  | Administer enough fluids to maintain bilateral radial pulse pressure                                                                                               |
-| [[Traumatic Spinal Cord Injury 🧑🦽]]                           | Cautious fluid administration  <br>Risk of neurogenic [[Acute Pulmonary Oedema (APO) & ARDS 💦🫁]]                                                                 |
+| [[Traumatic Spinal Cord Injury 🧑🦽 1]]                           | Cautious fluid administration  <br>Risk of neurogenic [[Acute Pulmonary Oedema (APO) & ARDS 💦🫁]]                                                                 |
 | [[Inferior STEMI]] - Right Ventricular Infarction (V4R)         | Gentle fluid challenge  <br>Only if no signs of left ventricular failure (e.g. APO)                                                                                |
 | [[Septic Shock]]                                                | Aggressive initial fluid resuscitation (e.g. 30 mL/kg crystalloid bolus) To counteract distributive shock and restore perfusion. Monitor for fluid responsiveness. |
 | [[Burns 🔥🤕]]                                                  |                                                                                                                                                                    |
@@ -43,7 +43,7 @@
 Uncontrolled [[Hemorrhage 🩸]]
 - Administer enough fluids to maintain bilateral radial pulse pressure
 
-[[Traumatic Spinal Cord Injury 🧑🦽]]
+[[Traumatic Spinal Cord Injury 🧑🦽 1]]
 - Cautious fluid administration
 - Risk of neurogenic [[Acute Pulmonary Oedema (APO) & ARDS 💦🫁]]
 

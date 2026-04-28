@@ -29,7 +29,7 @@ Assessment of the conscious patient: • Place hands on the chest wall below the
 • Assess pulse (radial, femoral, carotid or brachial) Normal is 55 to 90 per minute. Is it regular, irregular, bounding, rapid, weak/thready? • Sweep head to toe for blood to identify life-threatening bleeding. Also note significant swelling or major bone deformities. Look on the ground for significant blood loss. Treatments: STOP AND FIX patient who is pulse-less or has life-threatening bleeding. Interventions may include well-aimed direct pressure, tourniquet or CPR.
 
 *Disability:*
-- [[GCS]]
+- [[GCS 1]]
 - [[Pupil Analysis]]
 Determine alertness (AVPU) and mental status (What is your name? What is the date? Where are you?) Determine the mechanism of injury (MOI) and make a decision regarding likelihood of spine injury. Maintain spine immobilization if a mechanism of injury to the spinal column is present. Assume positive MOI for spinal cord injury if the patient is or has experienced any of the following issues during the incident: • Found unconscious • Does not recall the events immediately preceding the injury • Fell from a height greater than his own • Exhibits signs and symptoms of a head injury • A violent change in velocity • A blunt trauma to the head, neck, or back
 *Environment*
